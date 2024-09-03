@@ -7,6 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+         wELCOME TO COCOBILLS
+        </p>
+        <p>
           Edit <code>src/App.js</code> and save to reload.... updated
         </p>
         <a
